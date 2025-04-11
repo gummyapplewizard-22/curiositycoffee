@@ -44,7 +44,8 @@ h1 {
 
 div.gallery {
     border: 8px solid rgb(65, 195, 228);
-    align-self: auto;
+    display: block;
+    margin: auto;
   }
   
   div.gallery:hover {
@@ -93,7 +94,6 @@ div.gallery {
   }
 
 
-
 p {
     color: #FFFDFA;
     font-size: 20px;
@@ -103,7 +103,7 @@ p {
 }
 
 .coffeebarimg-1 {
-    width: 40%;
+    width: 60%;
     margin: 8% 20% 1% 20%;/* top right bottom left */
 }
 
@@ -123,6 +123,7 @@ p {
 .drinkimg-4 {
     width: 30%;
 }
+
 
 .pastryimg-1 {
     width: 30%;
